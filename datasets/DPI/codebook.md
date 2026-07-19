@@ -65,7 +65,9 @@ Condensed from the official codebook for search and reference. Authoritative sou
 a commonwealth); for Soviet Republics while part of the USSR; for countries in the midst
 of civil war or political crisis.
 
-## Variables (as documented in this PDF)
+## Variables
+
+Only the variables the published PDF defines; see the note at the top of this file.
 
 | Variable | Label | Values | Notes |
 |---|---|---|---|
