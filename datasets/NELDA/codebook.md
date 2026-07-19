@@ -1,3 +1,19 @@
+---
+name: "National Elections Across Democracy and Autocracy"
+id: "nelda"
+version: "6.0"
+date: "2021-07-23"
+description: "Event-level coding of the conduct and competitiveness of national elections."
+scope: "Directly elected national executives and legislatures; indirect elections, by-elections and most referenda excluded."
+years: "1945-2020"
+type: "quality"
+data_url: "https://nelda.co/"
+codebook_url: "NELDA_Codebook_V6.pdf"
+paper_title: "Hyde, Susan D., and Nikolay Marinov. 2012. \"Which Elections Can Be Lost?\" Political Analysis 20(2): 191-210."
+paper_url: "https://www.cambridge.org/core/journals/political-analysis/article/which-elections-can-be-lost/0474B124646DF486D1FD9A8E26D31DEC"
+citation: "Hyde, Susan D., and Nikolay Marinov. 2012. \"Which Elections Can Be Lost?\" Political Analysis 20(2): 191-210."
+---
+
 # NELDA — codebook (v6.0)
 
 Condensed from the official codebook for search and reference. Authoritative source:

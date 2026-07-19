@@ -1,3 +1,19 @@
+---
+name: "Constituency-Level Elections Archive"
+id: "clea"
+version: "20251015"
+date: "2025-10-15"
+description: "Constituency-level votes and seats for national legislative elections worldwide."
+scope: "National legislative elections, lower and upper chamber, constituency level."
+years: "1789-2025"
+type: "results"
+data_url: "https://electiondataarchive.org/data-and-documentation/"
+codebook_url: "clea_20251015_codebook.pdf"
+paper_title: null
+paper_url: null
+citation: "Kollman, Ken, Allen Hicken, Daniele Caramani, David Backer, and David Lublin. 2024. Constituency-Level Elections Archive [data file and codebook]. Ann Arbor, MI: University of Michigan, Center for Political Studies."
+---
+
 # CLEA — codebook (release 20251015)
 
 Condensed from the official codebook for search and reference. Authoritative source:

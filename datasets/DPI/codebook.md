@@ -1,3 +1,19 @@
+---
+name: "Database of Political Institutions"
+id: "dpi"
+version: "DPI2023"
+date: null
+description: "Country-year coding of political and electoral institutions, government stability and legislative fragmentation."
+scope: "National political institutions; chief executive and legislature. This codebook documents chief-executive variables only."
+years: "1975-2023"
+type: "rules"
+data_url: "https://data.iadb.org/dataset/the-database-of-political-institutions-dpi-2023"
+codebook_url: "dpi2023_codebook.pdf"
+paper_title: "Cruz, Cesi, Philip Keefer, and Carlos Scartascini. 2021. The Database of Political Institutions 2020 (DPI2020). IDB-DT-56."
+paper_url: "https://doi.org/10.18235/0003049"
+citation: "Cesi Cruz, Philip Keefer, Carlos Scartascini and Alberto Simpser. 2025. Codebook, Database of Political Institutions 2025. Washington, DC: Inter-American Development Bank Research Department."
+---
+
 # DPI — codebook (DPI2023, partial)
 
 Condensed from the official codebook for search and reference. Authoritative source:
