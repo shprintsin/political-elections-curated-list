@@ -2,13 +2,14 @@
 
 A curated list of datasets on national parliamentary / legislative elections — results,
 parties, electoral rules, and election quality. Click a dataset for its full page: coverage,
-key variables, caveats, and citation. Codebooks are archived here; papers are linked.
+key variables, caveats, and citation. Codebooks are archived here, each with a condensed `codebook.md` — one line per
+variable, for search. Papers are linked.
 
 | Dataset | Type | What it contains | Coverage | Links |
 |---|---|---|---|---|
-| **[CLEA](datasets/CLEA/)** | Results | Votes and seats per party per constituency | 190 countries, 1789– | [data](https://electiondataarchive.org/data-and-documentation/) · [codebook](datasets/CLEA/clea_20251015_codebook.pdf) |
-| **[DPI](datasets/DPI/)** | Rules | Electoral formula, thresholds, seat shares, legislative fragmentation | ~180 countries, 1975–2023 | [data](https://data.iadb.org/dataset/the-database-of-political-institutions-dpi-2023) · [codebook](datasets/DPI/dpi2023_codebook.pdf) · [paper](https://doi.org/10.18235/0003049) |
-| **[NELDA](datasets/NELDA/)** | Quality | Election conduct: competition, fraud, boycotts, violence | all states, 1945–2020 | [data](https://nelda.co/) · [codebook](datasets/NELDA/NELDA_Codebook_V6.pdf) · [paper](https://www.cambridge.org/core/journals/political-analysis/article/which-elections-can-be-lost/0474B124646DF486D1FD9A8E26D31DEC) |
+| **[CLEA](datasets/CLEA/)** | Results | Votes and seats per party per constituency | 190 countries, 1789– | [data](https://electiondataarchive.org/data-and-documentation/) · [codebook](datasets/CLEA/clea_20251015_codebook.pdf) · [md](datasets/CLEA/codebook.md) |
+| **[DPI](datasets/DPI/)** | Rules | Electoral formula, thresholds, seat shares, legislative fragmentation | ~180 countries, 1975–2023 | [data](https://data.iadb.org/dataset/the-database-of-political-institutions-dpi-2023) · [codebook](datasets/DPI/dpi2023_codebook.pdf) · [md](datasets/DPI/codebook.md) · [paper](https://doi.org/10.18235/0003049) |
+| **[NELDA](datasets/NELDA/)** | Quality | Election conduct: competition, fraud, boycotts, violence | all states, 1945–2020 | [data](https://nelda.co/) · [codebook](datasets/NELDA/NELDA_Codebook_V6.pdf) · [md](datasets/NELDA/codebook.md) · [paper](https://www.cambridge.org/core/journals/political-analysis/article/which-elections-can-be-lost/0474B124646DF486D1FD9A8E26D31DEC) |
 
 **Type** — Results (votes and seats) · Parties · Rules (electoral systems and institutions) ·
 Quality (integrity, conduct, regime context) · Regional (single-region or official sources).

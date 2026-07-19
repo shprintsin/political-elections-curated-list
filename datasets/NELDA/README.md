@@ -5,7 +5,7 @@ Event-level coding of what happened around every national election, competitive 
 | | |
 |---|---|
 | **Data** | https://nelda.co/ (free, by request form) |
-| **Codebook** | [`NELDA_Codebook_V6.pdf`](NELDA_Codebook_V6.pdf) |
+| **Codebook** | [`NELDA_Codebook_V6.pdf`](NELDA_Codebook_V6.pdf) · [condensed markdown](codebook.md) |
 | **Paper** | [Hyde & Marinov (2012), "Which Elections Can Be Lost?"](https://www.cambridge.org/core/journals/political-analysis/article/which-elections-can-be-lost/0474B124646DF486D1FD9A8E26D31DEC) |
 | **Maintainer** | Susan D. Hyde (UC Berkeley) and Nikolay Marinov (Univ. of Houston / Gothenburg) |
 | **Coverage** | All independent states (Gleditsch & Ward list), 1945–2020 (v6) |

@@ -6,7 +6,7 @@ one table.
 | | |
 |---|---|
 | **Data** | https://electiondataarchive.org/data-and-documentation/ |
-| **Codebook** | [`clea_20251015_codebook.pdf`](clea_20251015_codebook.pdf) |
+| **Codebook** | [`clea_20251015_codebook.pdf`](clea_20251015_codebook.pdf) · [condensed markdown](codebook.md) |
 | **Paper** | None — CLEA has no accompanying journal article; cite the dataset itself |
 | **Maintainer** | University of Michigan (Kollman, Hicken, Caramani, Backer, Lublin) |
 | **Coverage** | ~190 countries, 1789–present; lower chamber, separate upper-chamber release |

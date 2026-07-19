@@ -6,7 +6,7 @@ and how fragmented the legislature is.
 | | |
 |---|---|
 | **Data** | https://data.iadb.org/dataset/the-database-of-political-institutions-dpi-2023 |
-| **Codebook** | [`dpi2023_codebook.pdf`](dpi2023_codebook.pdf) — 8-page excerpt, see Caveats |
+| **Codebook** | [`dpi2023_codebook.pdf`](dpi2023_codebook.pdf) · [condensed markdown](codebook.md) — 8-page excerpt, see Caveats |
 | **Paper** | [Cruz, Keefer & Scartascini (2021), *The Database of Political Institutions 2020*](https://doi.org/10.18235/0003049) (IDB-DT-56) |
 | **Maintainer** | Cesi Cruz, Philip Keefer, Carlos Scartascini, Alberto Simpser — Inter-American Development Bank |
 | **Coverage** | ~180 countries, 1975–2023 (DPI2023 extends DPI2020 by 2021–2022) |
