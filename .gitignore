@@ -1,0 +1,4 @@
+# Third-party codebooks and papers are linked, not redistributed.
+# Local copies stay on disk, untracked.
+*.pdf
+*.xlsx
