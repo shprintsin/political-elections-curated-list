@@ -6,7 +6,7 @@ one table.
 | | |
 |---|---|
 | **Data** | https://electiondataarchive.org/data-and-documentation/ |
-| **Codebook** | [Codebook, release 20251015](https://electiondataarchive.org/wp-content/uploads/2026/01/clea_20251015_codebook_accessible.pdf) |
+| **Codebook** | [`clea_20251015_codebook.pdf`](clea_20251015_codebook.pdf) |
 | **Paper** | None — CLEA has no accompanying journal article; cite the dataset itself |
 | **Maintainer** | University of Michigan (Kollman, Hicken, Caramani, Backer, Lublin) |
 | **Coverage** | ~190 countries, 1789–present; lower chamber, separate upper-chamber release |
@@ -38,3 +38,11 @@ Appendix II the party codes.
 > Kollman, Ken, Allen Hicken, Daniele Caramani, David Backer, and David Lublin. 2024.
 > *Constituency-Level Elections Archive* [data file and codebook]. Ann Arbor, MI:
 > University of Michigan, Center for Political Studies.
+
+## Local files
+
+```
+clea_20251015_codebook.pdf        codebook, release 20251015 (current)
+clea_20240419_appendix_I.pdf      country and election coverage
+clea_20240419_appendix_II.xlsx    party codes
+```

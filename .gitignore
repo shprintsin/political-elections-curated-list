@@ -1,4 +1,7 @@
-# Third-party codebooks and papers are linked, not redistributed.
-# Local copies stay on disk, untracked.
-*.pdf
-*.xlsx
+# Journal articles are linked, not redistributed.
+
+# Kept on disk, out of the repo:
+# superseded by the 20251015 codebook
+datasets/CLEA/clea_20240419_codebook.pdf
+# 15MB duplicate of clea_20240419_appendix_II.xlsx
+datasets/CLEA/clea_20240419_appendix_II.pdf
