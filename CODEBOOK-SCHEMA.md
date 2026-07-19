@@ -68,6 +68,23 @@ table, an event taxonomy). `## Variables` and the frontmatter are the fixed part
 5. **Source content only.** No commentary about surrounding projects, and no process
    narration.
 
+## Long codebooks
+
+Completeness is the goal only while the source is small enough to transcribe. Past roughly
+60 pages or 300 variables, the file becomes a **digest of the main content** rather than a
+full transcription:
+
+- Identifiers, sentinels and `Notes and gotchas` stay complete — never abridged.
+- The variable families the dataset is used for are transcribed in full and named.
+- Templated families collapse to one row for the pattern (`per101`-`per706`,
+  `candidate_i` for i = 1..39), with distinct member meanings moved to their own table.
+- Long enumerations available in the source (country lists, party-code appendices) become
+  a one-line pointer, not a transcription.
+
+A digest **states its own boundary** directly under the title: what is covered in full,
+what is summarised, what is omitted, and where to find the rest. Silent truncation is not
+acceptable — an unannounced digest reads as a complete codebook and gets trusted as one.
+
 ## Parsing
 
 ```python
