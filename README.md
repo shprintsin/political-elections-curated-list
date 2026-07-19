@@ -2,8 +2,9 @@
 
 A curated list of datasets on national parliamentary / legislative elections — results,
 parties, electoral rules, and election quality. Click a dataset for its full page: coverage,
-key variables, caveats, and citation. Codebooks are archived here, each with a condensed `codebook.md` — one line per
-variable, for search. Papers are linked.
+key variables, caveats, and citation. Codebooks are archived here, each with a condensed `codebook.md` — YAML frontmatter plus
+one row per variable, for search and programmatic use. See [`CODEBOOK-SCHEMA.md`](CODEBOOK-SCHEMA.md).
+Papers are linked.
 
 | Dataset | Type | What it contains | Coverage | Links |
 |---|---|---|---|---|
